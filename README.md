@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/github_cover.png" >
+  <img src="/img/banner-2.png" >
 </p>
 
 ## Data Science
