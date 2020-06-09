@@ -9,6 +9,8 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
+* **Análise dos Dados do Airbnb - Vancouver BC:** https://bit.ly/37jNUdw
+
 ---
 
 ### Sobre mim:
